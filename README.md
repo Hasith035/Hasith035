@@ -1,4 +1,4 @@
-# *Hey There* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
+# *Hey There!* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
 <h1 align="center"><a href="https://github.com/Hasith035"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+There!+I'm+Hasith+Kaushalya;This+Is+My+GitHub+Profile%F0%9F%98%89"></a></h1>
 
 - 👀 I’m interested in Coding
